@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae24b9aae7c640c09dbe7c5dd1721c22, type: 3}
+  m_Name: PinkBottle
+  m_EditorClassIdentifier: 
+  itemType: 0
+  name: Pink Water
+  maximumAmount: 0
+  description: 
+  icon: {fileID: 21300000, guid: 117b17facff65dc42b1b57deb7c21551, type: 3}
+  prefab: {fileID: 1198238801005657944, guid: 6c35919fa882d8b4196da256b7983b0b, type: 3}
+  rotateAngle: {x: 0, y: 90, z: 0}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec86992f514dd1468f5d14aab307215, type: 3}
+  m_Name: PetrificusTotalus
+  m_EditorClassIdentifier: 
+  itemType: 1
+  name: Pertificus Totalus
+  maximumAmount: 1
+  description: Paralyses the body
+  icon: {fileID: 21300000, guid: 8f6d58fd471ba8a45a4b681953e29c26, type: 3}
+  prefab: {fileID: 1726363926289049176, guid: 0a0d4ebbbc7349c4ea3e9d38ff079309, type: 3}
+  rotateAngle: {x: 41, y: 11, z: 117}
+  spellPrice: 10

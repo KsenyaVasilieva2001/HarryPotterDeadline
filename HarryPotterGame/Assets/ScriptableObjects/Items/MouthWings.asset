@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae24b9aae7c640c09dbe7c5dd1721c22, type: 3}
+  m_Name: MouthWings
+  m_EditorClassIdentifier: 
+  itemType: 0
+  name: Mouth Wings
+  maximumAmount: 1
+  description: 
+  icon: {fileID: 21300000, guid: b7f77607c82ea4142a2070c0e37e1756, type: 3}
+  prefab: {fileID: 7661856609151072209, guid: c0d80822044ac7249bbd0ecde07f7c29, type: 3}
+  rotateAngle: {x: 0, y: 0, z: 0}

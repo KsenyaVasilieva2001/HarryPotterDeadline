@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61af4874b77d4f76bc52544c96c5cf52, type: 3}
+  m_Name: Mushroom
+  m_EditorClassIdentifier: 
+  itemType: 0
+  name: Mushroom
+  maximumAmount: 3
+  description: Mushroom for poison
+  icon: {fileID: 21300000, guid: 966ff550585ec504896a28b55fd7281c, type: 3}
+  prefab: {fileID: 4533531526627020363, guid: 8b4557e23b116294493713bf2232542f, type: 3}
